@@ -128,7 +128,7 @@
     "concurrently": "^5.0.2",
     "cross-env": "^7.0.0",
     "customize-cra": "^0.9.1",
-    "electron": "7.1.9",
+    "electron": "9.4.0",
     "electron-builder": "20.6.2",
     "fibers": "^4.0.2",
     "less": "^3.10.3",

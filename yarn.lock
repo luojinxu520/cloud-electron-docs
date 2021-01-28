@@ -4562,10 +4562,10 @@ electron-updater@^4.2.2:
     pako "^1.0.11"
     semver "^7.1.3"
 
-electron@7.1.9:
-  version "7.1.9"
-  resolved "https://registry.npm.taobao.org/electron/download/electron-7.1.9.tgz#5053195d2e476a3ecd881ece4edf64f0a8c32fa3"
-  integrity sha1-UFMZXS5Haj7NiB7OTt9k8KjDL6M=
+electron@9.4.0:
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-9.4.0.tgz#c3c607e3598226ddbaaff8babcdffa8bb2210936"
+  integrity sha512-hOC4q0jkb+UDYZRy8vrZ1IANnq+jznZnbkD62OEo06nU+hIbp2IrwDRBNuSLmQ3cwZMVir0WSIA1qEVK0PkzGA==
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^12.0.12"
@@ -10003,14 +10003,6 @@ q@^1.1.2:
   version "1.5.1"
   resolved "https://registry.npm.taobao.org/q/download/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha1-fjL3W0E4EpHQRhHxvxQQmsAGUdc=
-
-qiniu-mithril@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/qiniu-mithril/-/qiniu-mithril-1.0.0.tgz#9c7721cb76d138172a8ba0f21ab9f5b541543b68"
-  integrity sha512-wk5NKwR5qtSfiGmtnM0pTb9lHmiPPEUueEn9kv12tPESV+UZxLY8FsTsKcVtrqkUxh1HuTtOCB6v7Js79NV6Cw==
-  dependencies:
-    axios "^0.19.2"
-    qiniu "^7.3.0"
 
 qiniu@^7.3.0:
   version "7.3.0"
